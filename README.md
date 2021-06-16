@@ -11,7 +11,7 @@ A social media app to send public text announcements similar to twitter.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Somnath6646/sendo
 ```
 
 Open the cloned folder in android studio and then change the following in Server.java
